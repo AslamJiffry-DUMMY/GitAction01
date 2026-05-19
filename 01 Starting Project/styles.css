@@ -9,7 +9,6 @@ body {
   color: #f6f0ee;
 }
 
-
 #logo {
   width: 7rem;
   height: 7rem;
@@ -21,4 +20,6 @@ h1 {
   color: #e8d4b2;
 }
 
-
+a {
+  color: #fee389;
+}
